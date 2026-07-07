@@ -1,0 +1,6 @@
+{
+  "name": "SynapseSphere AI",
+  "description": "Where Your Interests Shape the Future. A premium, futuristic AI personalization and recommendation engine built with advanced matching algorithms, smooth interactive layouts, and immersive glassmorphic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
