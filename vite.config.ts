@@ -5,8 +5,9 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base:"/SmartRecommend-AI/",
+    
     plugins: [react(), tailwindcss()],
+    base:"/SmartRecommend-AI/",
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
