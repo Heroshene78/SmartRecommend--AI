@@ -7,7 +7,7 @@ export default defineConfig(() => {
   return {
     
     plugins: [react(), tailwindcss()],
-    base:"/Task-3-Heroshene/",
+    base:'/Task-3-Heroshene/',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
