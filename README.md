@@ -19,5 +19,5 @@ View your app in AI Studio: https://ai.studio/apps/2eb3e926-7a31-4e2a-bb83-1bbfc
 3. Run the app:
    `npm run deV
    ----
-DEPLOYMENT LINK:https://smartrecommend-ai-1-v2rk.onrender.com
+
 ----
