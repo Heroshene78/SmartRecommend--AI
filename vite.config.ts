@@ -5,9 +5,9 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    
+     base:'/Task-3-Heroshene/',
     plugins: [react(), tailwindcss()],
-    base:'/Task-3-Heroshene/',
+    
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
